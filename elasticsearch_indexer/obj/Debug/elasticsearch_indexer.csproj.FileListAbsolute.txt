@@ -1,0 +1,14 @@
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\elasticsearch_indexer.exe.config
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.csprojResolveAssemblyReference.cache
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\elasticsearch_indexer.exe
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\elasticsearch_indexer.pdb
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Elasticsearch.Net.dll
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Nest.dll
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Newtonsoft.Json.dll
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Elasticsearch.Net.pdb
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Elasticsearch.Net.xml
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Nest.pdb
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Nest.xml
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Newtonsoft.Json.xml
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.exe
+c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.pdb
