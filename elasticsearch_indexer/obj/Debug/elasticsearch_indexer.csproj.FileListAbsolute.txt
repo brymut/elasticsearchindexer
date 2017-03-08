@@ -12,3 +12,17 @@ c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\e
 c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\bin\Debug\Newtonsoft.Json.xml
 c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.exe
 c:\users\mutai_000\documents\visual studio 2015\Projects\elasticsearch_indexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.pdb
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\elasticsearch_indexer.exe.config
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.exe
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.pdb
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\obj\Debug\elasticsearch_indexer.csprojResolveAssemblyReference.cache
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\elasticsearch_indexer.exe
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\elasticsearch_indexer.pdb
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Elasticsearch.Net.dll
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Nest.dll
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Elasticsearch.Net.xml
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Nest.pdb
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Nest.xml
+C:\Users\mutai_000\Documents\Visual Studio 2015\Projects\elasticsearch_indexer\elasticsearchindexer\elasticsearch_indexer\bin\Debug\Newtonsoft.Json.xml
